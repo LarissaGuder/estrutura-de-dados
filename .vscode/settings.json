@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "hello_world.C": "cpp",
+        "1_hello_world.C": "cpp",
+        "2_variables_arithmetic.C": "cpp"
+    }
+}
